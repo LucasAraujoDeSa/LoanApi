@@ -1,0 +1,17 @@
+/home/thewizard/www/LoansApp/LoansApp.Data/bin/Debug/net7.0/LoansApp.Data.deps.json
+/home/thewizard/www/LoansApp/LoansApp.Data/bin/Debug/net7.0/LoansApp.Data.dll
+/home/thewizard/www/LoansApp/LoansApp.Data/bin/Debug/net7.0/LoansApp.Data.pdb
+/home/thewizard/www/LoansApp/LoansApp.Data/bin/Debug/net7.0/LoansApp.Domain.dll
+/home/thewizard/www/LoansApp/LoansApp.Data/bin/Debug/net7.0/LoansApp.Domain.pdb
+/home/thewizard/www/LoansApp/LoansApp.Data/obj/Debug/net7.0/LoansApp.Data.csproj.AssemblyReference.cache
+/home/thewizard/www/LoansApp/LoansApp.Data/obj/Debug/net7.0/LoansApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/thewizard/www/LoansApp/LoansApp.Data/obj/Debug/net7.0/LoansApp.Data.AssemblyInfoInputs.cache
+/home/thewizard/www/LoansApp/LoansApp.Data/obj/Debug/net7.0/LoansApp.Data.AssemblyInfo.cs
+/home/thewizard/www/LoansApp/LoansApp.Data/obj/Debug/net7.0/LoansApp.Data.csproj.CoreCompileInputs.cache
+/home/thewizard/www/LoansApp/LoansApp.Data/obj/Debug/net7.0/LoansApp.Data.csproj.CopyComplete
+/home/thewizard/www/LoansApp/LoansApp.Data/obj/Debug/net7.0/LoansApp.Data.dll
+/home/thewizard/www/LoansApp/LoansApp.Data/obj/Debug/net7.0/refint/LoansApp.Data.dll
+/home/thewizard/www/LoansApp/LoansApp.Data/obj/Debug/net7.0/LoansApp.Data.pdb
+/home/thewizard/www/LoansApp/LoansApp.Data/obj/Debug/net7.0/ref/LoansApp.Data.dll
+/home/thewizard/www/LoansApp/LoansApp.Data/bin/Debug/net7.0/LoansApp.Shared.dll
+/home/thewizard/www/LoansApp/LoansApp.Data/bin/Debug/net7.0/LoansApp.Shared.pdb

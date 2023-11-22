@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LoansApp.Data/1.0.0": {
+        "dependencies": {
+          "LoansApp.Domain": "1.0.0",
+          "LoansApp.Shared": "1.0.0"
+        },
+        "runtime": {
+          "LoansApp.Data.dll": {}
+        }
+      },
+      "LoansApp.Domain/1.0.0": {
+        "dependencies": {
+          "LoansApp.Shared": "1.0.0"
+        },
+        "runtime": {
+          "LoansApp.Domain.dll": {}
+        }
+      },
+      "LoansApp.Shared/1.0.0": {
+        "runtime": {
+          "LoansApp.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoansApp.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoansApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoansApp.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

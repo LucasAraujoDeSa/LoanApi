@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "LoansApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "LoansApp.Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LoansApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LoansApp.Domain.dll": {}
+        }
+      },
+      "LoansApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/LoansApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LoansApp.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoansApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../LoansApp.Domain/LoansApp.Domain.csproj",
+      "msbuildProject": "../LoansApp.Domain/LoansApp.Domain.csproj"
+    },
+    "LoansApp.Shared/1.0.0": {
+      "type": "project",
+      "path": "../LoansApp.Shared/LoansApp.Shared.csproj",
+      "msbuildProject": "../LoansApp.Shared/LoansApp.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "LoansApp.Domain >= 1.0.0",
+      "LoansApp.Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/thewizard/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/thewizard/www/LoansApp/LoansApp.Data/LoansApp.Data.csproj",
+      "projectName": "LoansApp.Data",
+      "projectPath": "/home/thewizard/www/LoansApp/LoansApp.Data/LoansApp.Data.csproj",
+      "packagesPath": "/home/thewizard/.nuget/packages/",
+      "outputPath": "/home/thewizard/www/LoansApp/LoansApp.Data/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/thewizard/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/home/thewizard/www/LoansApp/LoansApp.Domain/LoansApp.Domain.csproj": {
+              "projectPath": "/home/thewizard/www/LoansApp/LoansApp.Domain/LoansApp.Domain.csproj"
+            },
+            "/home/thewizard/www/LoansApp/LoansApp.Shared/LoansApp.Shared.csproj": {
+              "projectPath": "/home/thewizard/www/LoansApp/LoansApp.Shared/LoansApp.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
